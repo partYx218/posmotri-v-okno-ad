@@ -1,1 +1,1 @@
-# posmotri-v-okno-ad
+https://github.com/partYx218/posmotri-v-okno-ad
